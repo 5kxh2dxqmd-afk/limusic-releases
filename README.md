@@ -1,5 +1,5 @@
-# Limusic release downloads
+# Limusic releases
 
-This repository hosts public installers built from the private source mirror. Source code is not published here.
+This repository is no longer used for downloads. The public source repository and releases are here:
 
-Downloads: [Releases)](https://github.com/5kxh2dxqmd-afk/limusic-releases/releases)
+https://github.com/5kxh2dxqmd-afk/limusic/releases
